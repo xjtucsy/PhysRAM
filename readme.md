@@ -1,10 +1,10 @@
-### PAMNet
+### PhysRAM
 
 ---
 
 #### Introduction
 
-Main code of [**PAMNet: Lightweight Physiological-Aware Mamba for Robust and Efficient Video-Based Remote Physiological Measurement**]().
+Main code of [**PhysRAM: Lightweight Physiological Region-Aware Mamba for Efficient Video-Based Remote Physiological Measurement**]().
 
 ![image-20251127145124036](readme/image-20251127145124036.png)
 
